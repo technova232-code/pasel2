@@ -3,13 +3,13 @@
     "name": "Second",
     "slug": "second",
     "version": "1.0.0",
-    "android": {
-      "package": "com.pasel.second"
-    },
     "extra": {
       "eas": {
-        "projectId": "7f8194af-8ab6-4edc-b5bd-6ce56a701e54"
+        "projectId": "dee4896e-28c9-48d8-a62c-357d4b0c0955"
       }
+    },
+    "android": {
+      "package": "com.pasel.second"
     }
   }
 }
